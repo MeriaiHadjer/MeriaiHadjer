@@ -2,7 +2,6 @@
 - 👀 I’m interested in Java programming
 - 🌱 I’m currently learning JavaFX
 - 💞️ I’m looking to collaborate on JavaFX projects
-- 📫 How to reach me ...
 
 <!---
 MeriaiHadjer/MeriaiHadjer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
